@@ -1,0 +1,36 @@
+📱arquivos, mods, ROMS para o Redmi 13C/poco C65 4G gale
+_  #installstock_rom
+_  #antibrick
+_  #boot_img
+_  #antibrick_twrp
+_  #magisk27
+_  #orangefox
+_  #root_sem_twrp
+_  #twrp
+_  #central_de_controle
+_  #imeibackup
+_  #gcam
+_  #pbrp_recovery
+_  #platform_tools
+_  #hyperos_roms
+_  #gameturbo
+_  #debloat13C
+_  #janelasflutuantes
+_  #hypermodv1
+_  #hypermodv2
+_  #dsu_sideloader
+_  #crdroidgsi
+_  #força90Hz
+_  #iosplugin
+_  #superior_osgsi
+_  #carregamento_rapido
+_  #unlockbootloader
+_  #tutorial_gsi
+_  #product_gsi
+_  #launchermod           
+_  #vbmeta
+_  #vbmeta_system
+_  #afterlifegsiA13
+_  #fixlag_gsi
+#comando
+Ex: #vbmeta
